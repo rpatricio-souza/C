@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1570665699 source:c:\develop\c\prova1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

@@ -1,0 +1,22 @@
+Funcionario 1: 1
+Funcionario 2: 8
+Funcionario 3: 5
+Funcionario 4: 4
+Funcionario 5: 3
+Funcionario 6: 6
+Funcionario 7: 7
+Funcionario 8: 2
+Funcionario 9: 5
+Funcionario 10: 9
+Funcionario 11: 9
+Funcionario 12: 4
+Funcionario 13: 2
+Funcionario 14: 3
+Funcionario 15: 0
+Funcionario 16: 8
+Funcionario 17: 5
+Funcionario 18: 0
+Funcionario 19: 3
+Funcionario 20: 8
+
+Media de Felicidade = 4.60

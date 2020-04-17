@@ -1,0 +1,10 @@
+Aluno 1 6.00
+Aluno 2 3.00
+Aluno 3 0.00
+Aluno 4 2.00
+Aluno 5 3.00
+Aluno 6 6.00
+Aluno 7 0.00
+Aluno 8 1.00
+Aluno 9 8.00
+Aluno 10 0.00

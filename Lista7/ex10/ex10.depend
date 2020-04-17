@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1574298341 source:f:\patricio\develop\c\lista7\ex10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

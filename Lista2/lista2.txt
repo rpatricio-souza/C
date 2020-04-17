@@ -1,0 +1,19 @@
+1º  Elabore  um algoritmo e um programa a em C que leia o tamanho de cada lado de um retângulo e calcule o perímetro e área, imprimindo o resultado na tela
+
+2º - Elabore um algoritmo e um programa em C que resolva o  Problema B "Um pra você, um pra mim", de Lúcio Nunes de Lira (Fatec São Paulo), da Maratona de Programação InterFatec's 2018.
+
+3º -  Elabore um algoritmo e um programa em C que leia as medidas dos três lados de um triângulo e calcule o perímetro e área, imprimindo o resultado na tela. 
+
+4º -  Elabore um algoritmo e um programa em C que resolva o  Problema C, " A Horta do Juquinha", de: Antonio Cesar de Barros Munari (Fatec Sorocaba), da Maratona de Programação InterFatec's 2018.
+
+5º -  Elabore  um algoritmo e um programa em C que leia as medidas dos três lados de um triângulo e determine se o triângulo é equilátero, isósceles ou escaleno, imprimindo o resultado na tela. 
+
+6º -  Elabore  um algoritmo e um programa em C que leia as medidas dos três lados de um triângulo e determine se o triângulo é acutângulo, obtusângulo ou retângulo, imprimindo o resultado na tela.
+
+ 7º - Elabore  um algoritmo e um programa em C que leia peso e altura de uma pessoa e calcule o IMC, imprimindo o resultado na tela. 
+
+ 8º -  Elabore um algoritmo e um programa em C que leia os coeficientes a e b de uma função de 1º grau e calcule x para y=0 ( y=ax+b), imprimindo o resultado na tela.
+
+ 9º -  Elabore um algoritmo e um programa em C que leia os coeficientes a, b e c de uma função de 2º grau e calcule x para y=0, imprimindo o resultado na tela. 
+
+10º -   Elabore um algoritmo e um programa em C que resolva o  Problema H "Poupança Multi-data"de Júlio Lieira (Fatec Lins), da Maratona de Programação InterFatec's 2018.

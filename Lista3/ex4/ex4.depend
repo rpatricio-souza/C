@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1566765574 source:d:\develop\c\lista3\ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1566766348 source:c:\develop\c\lista3\ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+

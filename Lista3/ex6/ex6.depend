@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1567032050 source:c:\develop\c\lista3\ex6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funcoesex6.h"
+
+1567031969 c:\develop\c\lista3\ex6\funcoesex6.h
+

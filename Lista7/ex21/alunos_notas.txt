@@ -1,0 +1,10 @@
+Aluno_1 4
+Aluno_2 5
+Aluno_3 4
+Aluno_4 2
+Aluno_5 5
+Aluno_6 3
+Aluno_7 8
+Aluno_8 4
+Aluno_9 5
+Aluno_10 2

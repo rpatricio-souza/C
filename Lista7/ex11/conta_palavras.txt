@@ -1,0 +1,1 @@
+Faca um programa no qual o usuario informa o nome do arquivo e uma palavra, e retorne o numero de vezes que aquela palavra aparece no arquivo.

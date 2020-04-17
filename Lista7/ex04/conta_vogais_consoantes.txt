@@ -1,0 +1,2 @@
+Vogais = 3
+Consoantes = 9

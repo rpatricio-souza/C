@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1567639019 source:c:\develop\c\lista4\programas.c
+	<stdio.h>
+	<stdlib.h>
+	"programas.h"
+
+1567644389 c:\develop\c\lista4\programas.h
+
+1567637728 source:c:\develop\c\lista4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"programas.h"
+
+1567972146 source:f:\patricio\develop\c\lista4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"programas.h"
+
+1567971773 f:\patricio\develop\c\lista4\programas.h
+
+1567727324 source:f:\patricio\develop\c\lista4\programas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"programas.h"
+
+1567970757 source:d:\develop\c\lista4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"programas.h"
+
+1567971773 d:\develop\c\lista4\programas.h
+
+1567972099 source:d:\develop\c\lista4\programas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"programas.h"
+

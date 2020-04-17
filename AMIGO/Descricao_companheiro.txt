@@ -1,0 +1,1 @@
+O algoritmo consiste em um programa que irá ler o número de funcionários de uma determinada empresa, após isso ele deve perguntar para cada funcionário o quanto eles estão felizes na empresa e por fim tirar uma média com base na nota de todos funcionários.

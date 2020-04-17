@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575480843 source:f:\patricio\develop\c\lista7\ex17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+

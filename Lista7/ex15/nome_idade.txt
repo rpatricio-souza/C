@@ -1,0 +1,6 @@
+Rafael: 29 anos, maior de idade.
+Aline: 30 anos, maior de idade.
+Zilda: 60 anos, maior de idade.
+Joaqium: 64 anos, maior de idade.
+Lucas: 15 anos, menor de idade.
+Gabriel: 18 anos, entrando na maior idade.

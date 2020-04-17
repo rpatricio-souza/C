@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1566349846 source:c:\develop\c\lista2\area_perimetro_retangulo\geometria.c
+
+1566349878 source:c:\develop\c\lista2\area_perimetro_retangulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"geometria.h"
+
+1566349912 c:\develop\c\lista2\area_perimetro_retangulo\geometria.h
+

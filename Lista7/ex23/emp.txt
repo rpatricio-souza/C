@@ -1,0 +1,5 @@
+Funci o nario,5
+Funcionario,10
+Estagiario,1
+Chefe da Empresa,15
+Func Aposentado,20

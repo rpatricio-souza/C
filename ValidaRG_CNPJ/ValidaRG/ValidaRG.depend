@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570752593 source:f:\patricio\develop\c\lista6\validarg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570995969 source:d:\develop\c\lista6\validarg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
